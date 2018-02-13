@@ -1,3 +1,5 @@
+Fork from https://sourceforge.net/projects/irrlicht/ (r5600) with GLFW3 support
+
 ==========================================================================
 The Irrlicht Engine SDK version 1.9
 ==========================================================================
@@ -186,9 +188,9 @@ The Irrlicht Engine SDK version 1.9
   Many others (this list hasn't been updated in a while, but they are often mentioned in changes.txt)
   Etienne Petitjean wrote the MacPort of the engine
   Mark Jeacocke	Wrote lots of helpful comments and ideas in the forums and per email.
-  Julio Gorgé	Created the 'Unofficial DirectX 9.0 Driver for the Irrlicht Engine'
+  Julio GorgÃ©	Created the 'Unofficial DirectX 9.0 Driver for the Irrlicht Engine'
   Andy Spurgeon	Wrote the Dev-Cpp tutorial.
-  André Simon	Wrote the Codewarrior tutorial.
+  AndrÃ© Simon	Wrote the Codewarrior tutorial.
   KnightToFlight	Created the unoffical terrain renderer addon for the Irrlicht Engine.
   Jon Pry	Wrote the code to load compressed TGA files.
   Matthew Couch	Wrote the tokamak integration tutorial.
